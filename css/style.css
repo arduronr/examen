@@ -1,0 +1,240 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100;200;300;400;500;600;700;800;900&family=Heebo:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{
+	font-size: Segoe UI;
+	font-size: 15px;
+	color: #fff;
+	font-family: 'Catamaran', sans-serif;
+
+}
+header{
+	position: relative;
+	background-color: #282932;
+	width: 100%;
+	top:0;
+	border-bottom: 1px dashed rgba(255, 255, 255, 0.15);
+}
+
+#hero{
+	
+	background-image: url("../img/slider-courier-masks.png");
+	
+	padding: 30% 0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	text-align: left;
+	margin-top: -20%;
+}
+.btn-azul{
+	
+	padding: 10px 50px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	border-radius: 40px;
+	color: #282932;
+	background-color:#f7b614;
+	margin-top: 5%;
+}
+.chesse{
+	background-image: url("../img/item_03-480x480.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	text-align: center;
+	text-align: left;
+	padding: 35% 0;
+}
+.royal{
+		background-image: url("../img/item_04-480x480.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	text-align: center;
+	text-align: left;
+	padding: 35% 0;
+}
+.black{
+		background-image: url("../img/item_02-480x480.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	text-align: center;
+	text-align: left;
+	padding: 35% 0;
+}
+.classic{
+		background-image: url("../img/item_01-480x480.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	text-align: center;
+	text-align: left;
+	padding: 35% 0;
+}
+#popular-goods{
+	text-align: center;
+	padding: 10% 0;
+	color: #282932;
+}
+#popular-goods article h3{
+	text-align: center;
+	
+	color: #282932;
+}
+#popular-goods h2{
+	text-align: center;
+	color: #282932!important;
+}
+.subtitle{
+	font-size: 16px;
+	font-weight: 800;
+	
+}
+.price{
+	font-size: 16px;
+	font-weight: 800;
+	font-family: 'Heebo', sans-serif;
+}
+#popular-goods li.subtitles{
+
+	color:#f7b614;
+	font-size: 16px;
+	font-weight: 800;
+	
+
+}
+
+#popular-goods a {
+
+	color:#282932;
+
+}
+footer{
+	background-color: #282932;
+	background-image: url(../img/footer-bg.png);
+	background-size: cover;
+	padding-top: 40px;
+	color: rgba(255, 255, 255, 0.55);
+	text-align: center;
+	font-size: 13px;
+	font-weight: 600;
+	
+}
+footer p span{
+	color: #f7b614;
+}
+footer #copy{
+	padding: 20px 0;
+	margin-top: 5%;
+	color: #fff;
+	border-top: 1px dashed rgba(255, 255, 255, 0.15);
+}
+.title{
+	font-family: 'Heebo', sans-serif;
+	font-size: 62px;
+	font-weight: 800;
+}
+h3,h2,h1 span{
+	color:#f7b614!important;
+}
+
+.bg-sit-home{
+			background-image: url("../img/sit-photo.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	text-align: left;
+	padding: 30% 0;
+}
+.sit-home{
+			background-image: url("../img/slider-glob.png");
+	background-color: #282932;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	text-align: left;
+	padding: 30% 0;
+}
+#sit-at-home .title,.subtitle{
+	color: #fff!important;
+}
+#sit-at-home{
+	text-align: center;
+	color:#fff!important;
+}
+.fast{
+			background-image: url("../img/icon4.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	text-align: center;
+	text-align: left;
+	padding: 35% 0!important;
+}
+.fast2{
+			background-image: url("../img/icon3.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	text-align: center;
+	text-align: left;
+	padding: 35% 0!important;
+}
+.fast3{
+			background-image: url("../img/icon2.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	text-align: center;
+	text-align: left;
+	padding: 35% 0!important;
+}
+
+.fast4{
+			background-image: url("../img/icon1.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	text-align: center;
+	text-align: left;
+	padding: 35% 0!important;
+}
+#sit-at-home .sit-home{
+	padding:10% 3%;
+
+}
+#sit-at-home {
+
+	padding: 0% 0;
+}
+#sit-at-home span{
+	color:#f7b614!important;
+}
+#suscribe{
+	
+	background-color: #f7b614;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	text-align: left;
+	padding: 2% 0;
+	
+	
+}
+
+#suscribe i{
+	font-size: 72px;
+	color:#282932;
+}
+#suscribe h3{
+	font-size: 32px;
+	color:#282932!important;
+	font-weight: 800;
+}
